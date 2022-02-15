@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DataNavigation</string>
+    <string name="cuida_de_tu_pou">Cuida de tu pou</string>
+    <string name="nombra_a_tu_pou">Nombra a tu Pou</string>
+    <string name="alimentar">Alimentar</string>
+    <string name="dar_agua">Dar Agua</string>
+    <string name="pou">Pou</string>
+    <string name="agua">Agua</string>
+    <string name="hamburguesa">Hamburguesa</string>
+    <string name="btn_act1">Datos de Pou</string>
+    <string name="btn_act2">Regresar con Pou</string>
+    <string name="txv_act2">Nombre: </string>
+    <string name="gname">Guardar Nombre</string>
+</resources>
